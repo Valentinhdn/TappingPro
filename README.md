@@ -48,8 +48,9 @@ python3 -m PyInstaller --onefile --windowed TappingPro.py
 ```
 ### Pour ajouter un logo à l'app :
 ```bash
-python3 -m PyInstaller --onefile --windowed --icon=monlogo.ico TappingPro.py
+python3 -m PyInstaller --onefile --windowed --icon=Tappingpro.ico TappingPro.py
 
 ```
+
 
 
