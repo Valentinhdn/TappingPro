@@ -44,11 +44,12 @@ python TappingPro.py
 
 Dans un terminal, entrer la commande suivante : 
 ```bash
-python3 -m PyInstaller --onefile --windowed main.py
+python3 -m PyInstaller --onefile --windowed TappingPro.py
 ```
 ### Pour ajouter un logo à l'app :
 ```bash
-python3 -m PyInstaller --onefile --windowed --icon=monlogo.ico main.py
+python3 -m PyInstaller --onefile --windowed --icon=monlogo.ico TappingPro.py
 
 ```
+
 
