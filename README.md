@@ -31,7 +31,9 @@ Un petit programme Python pour tester sa vitesse et sa précision de frappe sur 
 1. Cloner le dépôt ou télécharger le fichier Python :
 
 ```bash
-git clone https://github.com/ton-utilisateur/test-de-frappe.git
+git clone https://github.com/Valentinhdn/TappingPro.git
+
+cd TappingPro
 
 pip install customtkinter
 
@@ -47,4 +49,5 @@ python3 -m PyInstaller --onefile --windowed main.py
 ### Pour ajouter un logo à l'app :
 ```bash
 python3 -m PyInstaller --onefile --windowed --icon=monlogo.ico main.py
+
 ```
