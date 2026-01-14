@@ -37,7 +37,7 @@ cd TappingPro
 
 pip install customtkinter
 
-python main.py
+python TappingPro.py
 ```
 
 ## Compiler en .exe
@@ -51,3 +51,4 @@ python3 -m PyInstaller --onefile --windowed main.py
 python3 -m PyInstaller --onefile --windowed --icon=monlogo.ico main.py
 
 ```
+
